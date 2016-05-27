@@ -10,12 +10,7 @@
   "license": "MIT",
   "devDependencies": {
   },
-  "keywords": [
-    "ember-addon"
-  ],
-  "ember-addon": {
-    "configPath": "tests/dummy/config"
-  },
+  "keywords": [],
   "dependencies": {
     "fs-extra": "^0.24.0",
     "inquirer": "^0.10.1",
